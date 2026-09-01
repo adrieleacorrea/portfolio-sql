@@ -23,3 +23,6 @@ Classificar clientes de acordo com o valor total de compras.
 - Regular: acima de 400
 - Ocasional: abaixo de 400
 - Sem compras
+
+## EXEMPLO
+! [ PROJETO SQL] (aptura de Tela 2026-08-31 às 22.49.51.png)
